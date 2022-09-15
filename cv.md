@@ -4,7 +4,4 @@ title: CV (August 2022)
 permalink: /cv/
 ---
 
-<object data="CV-Harris-Summer22.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-
-
+<embed src="https://mjharris95.github.io/main/CV-Harris-Summer22.pdf" type="application/pdf" width="100%" />
