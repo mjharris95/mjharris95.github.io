@@ -7,7 +7,7 @@ author_profile: true
 permalink: /
 ---
 
-![mh-pic](headshot2.jpg)
+<img src="headshot2.jpg" alt="drawing" width="50"/>
 
 I am a PhD candidate in Biology (Ecology and Evolution track) at Stanford University where I am advised by [Erin Mordecai](https://www.mordecailab.com/). I am an Achievement Rewards for College Scientists Scholar and Knight-Hennessy Scholar. I earned dual bachelor's degrees in Applied Mathematics and Computational Biology from the University of Georgia as a Goldwater Scholar and University of Georgia Foundation Fellow. I conducted undergraduate research and completed an honors thesis with [John Drake](https://daphnia.ecology.uga.edu/drakelab/).  
 
