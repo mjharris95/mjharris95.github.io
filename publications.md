@@ -4,9 +4,9 @@ title: Publications
 permalink: publications
 ---
 
-1.  Holcomb KM, Mathis S, Staples JE, Fischer M, Barker CM, Beard CB, Nett RJ, Keyel AC, Marcantonio M, Childs ML, Gorris ME, Rochlin I, Hamins-Puértolas M, Ray EL, Uelman JA, DeFelice N, Freedman AS, Hollingsworth BD, Das P, Osthus D, Humphreys JM, Nova N, Mordecai EA, Cohnstaedt LW, Kirk D, Kramer LD, \*\*Harris MJ\*\*, Kain MP, Reed EMX, Johansson MA. [Evaluation of an open forecasting challenge to assess skill of West Nile virus neuroinvasive disease prediction.](https://doi.org/10.21203/rs.3.rs-1992050/v1)) In review.
+1.  Holcomb KM, Mathis S, Staples JE, Fischer M, Barker CM, Beard CB, Nett RJ, Keyel AC, Marcantonio M, Childs ML, Gorris ME, Rochlin I, Hamins-Puértolas M, Ray EL, Uelman JA, DeFelice N, Freedman AS, Hollingsworth BD, Das P, Osthus D, Humphreys JM, Nova N, Mordecai EA, Cohnstaedt LW, Kirk D, Kramer LD, **Harris MJ**, Kain MP, Reed EMX, Johansson MA. [Evaluation of an open forecasting challenge to assess skill of West Nile virus neuroinvasive disease prediction.](https://doi.org/10.21203/rs.3.rs-1992050/v1) In review.
 
-2.  Kirk D, Straus S, Childs M, **Harris M**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://www.biorxiv.org/content/10.1101/2022.06.15.496305v1.abstract) In review.
+2.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://www.biorxiv.org/content/10.1101/2022.06.15.496305v1.abstract) In review.
 
 3.  **Harris MJ**, Mordecai EA. [Social divisions and risk perception can drive divergent epidemic dynamics and large second and third waves](https://www.medrxiv.org/content/10.1101/2022.05.20.22275407v1). In review.
 
