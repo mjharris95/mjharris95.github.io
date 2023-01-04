@@ -1,7 +1,7 @@
 ---
-editor_options: 
-  markdown: 
-    wrap: 72
+layout: page
+title: Research
+permalink: research
 ---
 
 # **Disease and decisions** {#disease-decisions}
