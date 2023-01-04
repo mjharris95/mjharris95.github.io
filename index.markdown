@@ -10,4 +10,3 @@ I use quantitative methods to study the interplay between human behavior and inf
 
 As a complement to my research, I advocate for safer and healthier communities through [gun violence prevention activism](https://momsdemandaction.org/georgia-moms-demand-action-everytown-and-gun-violence-survivors-urge-georgia-lawmakers-to-prioritize-public-safety/). I worked as Operations Director for [Maura's Voice](https://maurasvoice.org/), a nonprofit organization funding research and solutions to counter violence and hate. 
 
-This website is under construction! More to come soon.
