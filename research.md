@@ -6,7 +6,7 @@ permalink: research
 
 # **Disease and decisions** {#disease-decisions}
 
-<img src="disease-decision.jpg" align="left" width="243"/>
+<img src="https://mjharris95.github.io/disease-decision.jpg" align="left" width="243"/>
 
 During an infectious disease outbreak, individuals and governments may
 respond to their perceived or actual vulnerability to severe by adopting
@@ -26,7 +26,7 @@ decision-making ([paper](https://doi.org/10.1038/s41562-020-01000-9)).
 
 # **Predicting and preventing outbreaks**
 
-<img src="predict-prevent.png" align="left" width="252"/>
+<img src="https://mjharris95.github.io/predict-prevent.png" align="left" width="252"/>
 
 Infectious diseases may emerge and re-emerge rapidly and early public
 health measures can be especially crucial to avoid large outbreaks. I
@@ -47,7 +47,7 @@ pathogen ([paper](https://doi.org/10.1098/rspb.2021.0811)).
 
 # **Climate change and vector-borne disease**
 
-<img src="climate-vbd.png" align="left" width="252"/>
+<img src="https://mjharris95.github.io/climate-vbd.png" align="left" width="252"/>
 
 Anthropogenic climate change is a major threat to human and planetary
 heath. In particular, transmission of mosquito-borne diseases like
