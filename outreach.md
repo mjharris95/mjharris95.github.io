@@ -6,7 +6,7 @@ permalink: outreach
 
 # **Countering misinformation**
 
-<img src="https://mjharris95.github.io/misinfo.jpg" align="left" width="243"/>
+<img src="https://mjharris95.github.io/misinfo.jpg" align="left" width="120"/>
 
 I wrote multiple pieces about false and misleading claims about Covid-19 made by Stanford affiliates ([here](https://stanforddaily.com/2020/11/19/campus-covid-19-outbreaks-traced-to-students-heeding-call-from-faculty-to-rise-up/), [here](https://stanforddaily.com/2020/12/13/dr-levitt-your-words-have-power-use-them-carefully/), and [here](https://stanforddaily.com/2021/09/05/do-as-we-do-not-as-they-say/)). I discussed these pieces in an article for [STAT News](https://www.statnews.com/2021/05/24/stanford-professor-and-nobel-laureate-critics-say-he-was-dangerously-misleading-on-covid/) and on the [season finale](https://www.pushkin.fm/podcasts/against-the-rules/the-person-who-knows#play) of Michael Lewis' podcast Against the Rules. I am the President of [Scientists Speak Up](https://scientistsspeakup.org/), a student organization at Stanford focused on communication and advocacy to counter scientific misinformation. You can view recordings of several of our events on our [Youtube channel](https://www.youtube.com/@scientistsspeakup1427).
 
