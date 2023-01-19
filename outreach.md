@@ -10,9 +10,9 @@ permalink: outreach
 
 I wrote multiple pieces about false and misleading claims about Covid-19 made by Stanford affiliates ([here](https://stanforddaily.com/2020/11/19/campus-covid-19-outbreaks-traced-to-students-heeding-call-from-faculty-to-rise-up/), [here](https://stanforddaily.com/2020/12/13/dr-levitt-your-words-have-power-use-them-carefully/), and [here](https://stanforddaily.com/2021/09/05/do-as-we-do-not-as-they-say/)). I discussed these pieces in an article for [STAT News](https://www.statnews.com/2021/05/24/stanford-professor-and-nobel-laureate-critics-say-he-was-dangerously-misleading-on-covid/) and on the [season finale](https://www.pushkin.fm/podcasts/against-the-rules/the-person-who-knows#play) of Michael Lewis' podcast Against the Rules. I am the President of [Scientists Speak Up](https://scientistsspeakup.org/), a student organization at Stanford focused on communication and advocacy to counter scientific misinformation. You can view recordings of several of our events on our [Youtube channel](https://www.youtube.com/@scientistsspeakup1427).
 
-# **Science communication**
+# **Science communication** 
 
-[![](https://mjharris95.github.io/scicomm.jpg){align="left" width="243"}](https://www.youtube.com/watch?v=ahFuF1tQMfA)
+<img src="https://mjharris95.github.io/scicomm.jpg" align="left" width="243"/>
 
 I organized an expert [panel](https://www.youtube.com/watch?v=ahFuF1tQMfA) on the science of herd immunity in the context of Covid-19 and co-authored opinion pieces on the subject, published in [The New York Times](https://www.nytimes.com/2021/05/28/opinion/herd-immunity-covid-us.html) and [The Guardian](https://www.theguardian.com/commentisfree/2022/jan/10/herd-immunity-threshold-covid-new-variants). I helped develop multiple interactive websites to help people understand [long-term interventions for Covid-19](http://covid-measures.stanford.edu/), [risk of Covid-19 associated with large events](https://covid19risk.biosci.gatech.edu/), and [how protective behavior can affect disease dynamics](https://mallory-harris.shinyapps.io/rshiny-divided-disease/). I worked as the social media manager for [Girlology](https://girlology.com/), an organization of medical professionals providing educational resources about puberty and sex.
 
