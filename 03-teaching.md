@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching 
-permalink:/teaching/
+permalink: /teaching/
 ---
 
 During the fall of 2022, I co-developed and co-taught an interdisciplinary undergraduate course at Stanford called "Pathogens and Populations: Representing Infectious Disease" (ENGL 102). Each week, we considered scientific and cultural (e.g., novels, board games, film) to understand and critique the ways infectious disease is represented. You can read more about the course in [this article](https://news.stanford.edu/report/2023/01/03/students-examine-scientific-cultural-representations-disease/) by the Stanford Report and view the course syllabus below. I also was a teaching assistant for two courses (Biology and Global Change; Introduction to Research in Ecology and Evolutionary Biology).
