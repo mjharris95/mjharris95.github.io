@@ -13,7 +13,7 @@ permalink: publications
 
 4.  **Harris MJ**, Tessier-Lavigne E, Mordecai EA. [The interplay of policy, behavior, and socioeconomic conditions in early COVID-19 epidemiology in Georgia.](https://digitalcommons.georgiasouthern.edu/jgpha/vol8/iss2/4/) *J Ga Public Health Assoc*. 2021 Nov. 
 
-5.  **Harris MJ** \*, Childs ML\*, Kain MP\*, Kirk D, Couper L, Nova N, Delwel I, Ritchie J, Becker AD, Mordecai EA. [The impact of long-term non-pharmaceutical interventions on COVID-19 epidemic dynamics and control: the value and limitations of early models.](https://doi.org/10.1098/rspb.2021.0811) *Proc Royal Soc B.* 2021 Aug. (\*denotes shared first author)
+5.  Childs ML\*, Kain MP\*, **Harris MJ** \*, Kirk D, Couper L, Nova N, Delwel I, Ritchie J, Becker AD, Mordecai EA. [The impact of long-term non-pharmaceutical interventions on COVID-19 epidemic dynamics and control: the value and limitations of early models.](https://doi.org/10.1098/rspb.2021.0811) *Proc Royal Soc B.* 2021 Aug. (\*denotes shared first author)
 
 6.  Couper LI, Farner JE, Caldwell JM, Childs ML, **Harris MJ**, Kirk DG, Nova N, Shocket M, Skinner EB, Uricchio LH, Exposito-Alonso M, Mordecai EA. [How will mosquitoes adapt to climate warming?](doi.org/10.7554/eLife.69630) *eLife*. 2021 Aug.
 
