@@ -20,14 +20,11 @@
 
 title: Mallory Harris
 email: mharris9@stanford.edu
-description: "PhD Candidate, Stanford Biology" >- # this means to ignore newlines until "baseurl:"
+description: "PhD Candidate, Stanford Biology" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: malar0ne
 github_username:  mjharris95
-mastodon:
-- username: malar0ne
-  instance: med-mastodon.com
 
 # Build settings
 theme: minima
