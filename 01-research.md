@@ -14,7 +14,7 @@ protective measures. interplay between behavior and disease may produce
 complicated, nonlinear dynamics. I used mathematical modeling to study
 how awareness-based protective behavior in populations with strong group
 divisions can fundamentally alter epidemic shape and size
-([pre-print](https://www.medrxiv.org/content/10.1101/2022.05.20.22275407v1)).
+([paper](https://doi.org/10.1017/ehs.2023.2)).
 Using county-level data from the state of Georgia, I found an
 association between early implementation of public heath measures and
 reduced mobility in counties with the greatest risk of large outbreaks
@@ -37,7 +37,7 @@ resurgence in Kericho, Kenya
 model predicting West Nile Virus neuroinvasive disease, which
 consistently outperformed an ensemble model of forecasts submitted to a
 Centers for Disease Control and Prevent forecasting challenge
-([pre-print](https://doi.org/10.21203/rs.3.rs-1992050/v1)). Using an
+([paper](https://doi.org/10.21203/rs.3.rs-1992050/v1)). Using an
 early model of COVID-19 transmission, I helped estimate the impact of
 initial nonpharmaceutical interventions in Santa Clara County and
 evaluated how near-term forecasting accuracy of the model changed over
