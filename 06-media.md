@@ -4,7 +4,7 @@ title: ""
 permalink: media
 ---
 
-## Interviews and appearances:
+## Interviews and appearances
 
 [The federal government's response to Covid.](https://accuracy.org/release/the-federal-governments-response-to-covid/) *Institute for Public Accuracy.* 2023 Mar.
 
@@ -18,7 +18,7 @@ permalink: media
 
 [Report: Trump era Covid strategy "likely resulted in many deaths."](https://accuracy.org/release/report-trump-era-covid-strategy-likely-resulted-in-many-deaths/) *Institute for Public Accuracy*. 2022 Jun.
 
-[The person who knows.](https://www.pushkin.fm/podcasts/against-the-rules/the-person-who-knows) *Against the Rules* podcast with Michael Lewis. 2022 May.
+[The person who knows.](https://www.pushkin.fm/podcasts/against-the-rules/the-person-who-knows) *Against the Rules* with Michael Lewis (podcast). 2022 May.
 
 [Mis/disinformation 101](https://fb.watch/bx49crK-zi/). Hosted by Georgia State Rep. Rebecca Mitchell. Mar 2022.
 
