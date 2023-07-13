@@ -22,7 +22,7 @@ reduced mobility in counties with the greatest risk of large outbreaks
 I also helped develop a
 [website](https://covid19risk.biosci.gatech.edu/) displaying real-time
 risks of COVID-19 exposure at events by county to support more informed
-decision-making ([paper](https://doi.org/10.1038/s41562-020-01000-9)).
+decision-making ([paper](https://doi.org/10.1038/s41562-020-01000-9)). Working with a large Twitter dataset, I showed that perceived experts are a sizable and important group within the anti-vaccine community ([preprint](https://www.medrxiv.org/content/10.1101/2023.07.12.23292568v1)).
 
 # **Predicting and preventing outbreaks**
 
