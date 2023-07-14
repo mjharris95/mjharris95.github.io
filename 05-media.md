@@ -56,7 +56,7 @@ Mordecai EA, **Harris MJ**, Lipsitch M. [The US may never hit the herd immunity 
 
 Song DS, **Harris MJ**, Ou SX, Schachat S. [Stanford University must speak out against xenophobia.](https://stanforddaily.com/2020/06/19/stanford-university-must-speak-out-against-xenophobia/) *The Stanford Daily.* 2020 Jun.
 
-Weitz JS, **Harris MJ**, Chande AT, Gussler JW, Rishishwar L, Jordan IK. [Online COVID-19 dashboard calculates how risky reopenings and gatherings](https://blogs.scientificamerican.com/observations/online-covid-19-dashboard-calculates-how-risky-reopenings-and-gatherings-can-be/)[can be.](https://blogs.scientificamerican.com/observations/online-covid-19-dashboard-calculates-how-risky-reopenings-and-gatherings-can-be/https://blogs.scientificamerican.com/observations/online-covid-19-dashboard-calculates-how-risky-reopenings-and-gatherings-can-be/) *Scientific American*. 2020 May.
+Weitz JS, **Harris MJ**, Chande AT, Gussler JW, Rishishwar L, Jordan IK. [Online COVID-19 dashboard calculates how risky reopenings and gatherings](https://blogs.scientificamerican.com/observations/online-covid-19-dashboard-calculates-how-risky-reopenings-and-gatherings-can-be/) *Scientific American*. 2020 May.
 
 **Harris MJ.** [Setzler contradicts himself in sponsoring abortion ban, vaccine bills.](https://www.mdjonline.com/opinion/letters_to_editor/setzler-contradicts-himself-in-sponsoring-abortion-ban-vaccine-bills/article_11548f66-1bc0-11ea-a4bb-4f6be9415f44.html) *Marietta Daily Journal.* 2019 Dec.
 
