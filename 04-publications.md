@@ -4,13 +4,13 @@ title: Publications
 permalink: publications
 ---
 
-1. Turner MA, Singleton AL, **Harris MJ**, Harryman I, Lopez CA, Forde R, Muraida C, Jones JH. [Minority-group incubators and majority-group reservoirs for climate change adaptation.](https://doi.org/10.31235/osf.io/28eaj). *Phil Trans B*. In press.
+1.  Turner MA, Singleton AL, **Harris MJ**, Harryman I, Lopez CA, Forde R, Muraida C, Jones JH. [Minority-group incubators and majority-group reservoirs for climate change adaptation.](https://doi.org/10.31235/osf.io/28eaj) *Phil Trans B*. In press.
 
-2.  **Harris MJ**, Cardenas KJ, Mordecai EA. [Social divisions and risk perception drive divergent epidemics and large later waves](https://doi.org/10.1017/ehs.2023.2). *Evol Hum Sci*. 2023 Feb.
+2.  **Harris MJ**, Cardenas KJ, Mordecai EA. [Social divisions and risk perception drive divergent epidemics and large later waves.](https://doi.org/10.1017/ehs.2023.2) *Evol Hum Sci*. 2023 Feb.
 
 3.  Holcomb KM, Mathis S, Staples JE, Fischer M, Barker CM, Beard CB, Nett RJ, Keyel AC, Marcantonio M, Childs ML, Gorris ME, Rochlin I, Hamins-Puértolas M, Ray EL, Uelman JA, DeFelice N, Freedman AS, Hollingsworth BD, Das P, Osthus D, Humphreys JM, Nova N, Mordecai EA, Cohnstaedt LW, Kirk D, Kramer LD, **Harris MJ**, Kain MP, Reed EMX, Johansson MA. [Evaluation of an open forecasting challenge to assess skill of West Nile virus neuroinvasive disease prediction.](https://doi.org/10.21203/rs.3.rs-1992050/v1) *Parasites Vectors*. 2023 Jan.
 
-4.  **Harris MJ**, Tessier-Lavigne E, Mordecai EA. [The interplay of policy, behavior, and socioeconomic conditions in early COVID-19 epidemiology in Georgia.](https://digitalcommons.georgiasouthern.edu/jgpha/vol8/iss2/4/) *J Ga Public Health Assoc*. 2021 Nov. 
+4.  **Harris MJ**, Tessier-Lavigne E, Mordecai EA. [The interplay of policy, behavior, and socioeconomic conditions in early COVID-19 epidemiology in Georgia.](https://digitalcommons.georgiasouthern.edu/jgpha/vol8/iss2/4/) *J Ga Public Health Assoc*. 2021 Nov.
 
 5.  Childs ML\*, Kain MP\*, **Harris MJ** \*, Kirk D, Couper L, Nova N, Delwel I, Ritchie J, Becker AD, Mordecai EA. [The impact of long-term non-pharmaceutical interventions on COVID-19 epidemic dynamics and control: the value and limitations of early models.](https://doi.org/10.1098/rspb.2021.0811) *Proc Royal Soc B.* 2021 Aug. (\*denotes shared first author)
 
@@ -27,6 +27,9 @@ permalink: publications
 11. Zhang JY, Lee JH, Gu X, Wei ZZ, **Harris MJ**, Yu SP, Wei L. [Intranasally Delivered Wnt3a Improves Functional Recovery after Traumatic Brain Injury by Modulating Autophagic, Apoptotic, and Regenerative Pathways in the Mouse Brain.](https://doi.org/10.1089/neu.2016.4871) *J Neurotrauma.* 2018 Mar.
 
 ### Articles in Review
-1. **Harris MJ**, Murtfeldt R, Wang S, Mordecai EA, West JD. [The role and influence of perceived experts in an anti-vaccine misinformation community](https://www.medrxiv.org/content/10.1101/2023.07.12.23292568v1)
 
-2.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://www.biorxiv.org/content/10.1101/2022.06.15.496305v1.abstract)
+1.  Jalbert M, **Harris MJ**, Williams L. [Who is perceived to be an expert on COVID-19 vaccines on social media?: Biomedical credentials confer expertise, even among vaccine-hesitant and conservative observers.](https://psyarxiv.com/8hxdg/)
+
+2.  **Harris MJ**, Murtfeldt R, Wang S, Mordecai EA, West JD. [The role and influence of perceived experts in an anti-vaccine misinformation community.](https://www.medrxiv.org/content/10.1101/2023.07.12.23292568v1)
+
+3.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://www.biorxiv.org/content/10.1101/2022.06.15.496305v1.abstract)
