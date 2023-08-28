@@ -36,7 +36,7 @@ resurgence in Kericho, Kenya
 ([paper](https://doi.org/10.1098/rsbl.2019.0713)). I contributed to a
 model predicting West Nile Virus neuroinvasive disease, which
 consistently outperformed an ensemble model of forecasts submitted to a
-Centers for Disease Control and Prevent forecasting challenge
+Centers for Disease Control and Prevention forecasting challenge
 ([paper](https://doi.org/10.21203/rs.3.rs-1992050/v1)). Using an
 early model of COVID-19 transmission, I helped estimate the impact of
 initial nonpharmaceutical interventions in Santa Clara County and
