@@ -4,7 +4,7 @@ title: Publications
 permalink: publications
 ---
 
-1.  **Harris MJ**, Murtfeldt R, Wang S, Mordecai EA, West JD. [The role and influence of perceived experts in an anti-vaccine misinformation community.](https://www.medrxiv.org/content/10.1101/2023.07.12.23292568v1) *PNAS Nexus.* In press.
+1.  **Harris MJ**, Murtfeldt R, Wang S, Mordecai EA, West JD. [Perceived experts are prevalent and influential within an antivaccine community on Twitter.](https://academic.oup.com/pnasnexus/article/3/2/pgae007/7601415?login=false) *PNAS Nexus.* 2024 Feb.
 
 2.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://www.biorxiv.org/content/10.1101/2022.06.15.496305v1.abstract) *PLOS Climate.* In press.
 
