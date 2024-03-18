@@ -4,9 +4,9 @@ title: Publications
 permalink: publications
 ---
 
-1.  **Harris MJ**, Murtfeldt R, Wang S, Mordecai EA, West JD. [Perceived experts are prevalent and influential within an antivaccine community on Twitter.](https://academic.oup.com/pnasnexus/article/3/2/pgae007/7601415?login=false) *PNAS Nexus.* 2024 Feb.
+1.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://doi.org/10.1371/journal.pclm.0000152) *PLOS Climate.* 2024 Mar.
 
-2.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://www.biorxiv.org/content/10.1101/2022.06.15.496305v1.abstract) *PLOS Climate.* In press.
+2.  **Harris MJ**, Murtfeldt R, Wang S, Mordecai EA, West JD. [Perceived experts are prevalent and influential within an antivaccine community on Twitter.](https://academic.oup.com/pnasnexus/article/3/2/pgae007/7601415?login=false) *PNAS Nexus.* 2024 Feb.
 
 3.  Turner MA, Singleton AL, **Harris MJ**, Harryman I, Lopez CA, Forde R, Muraida C, Jones JH. [Minority-group incubators and majority-group reservoirs for climate change adaptation.](https://doi.org/10.31235/osf.io/28eaj) *Phil Trans B*. 2023 Sep.
 
