@@ -6,6 +6,10 @@ permalink: media
 
 ## Interviews and appearances
 
+[Yet more evidence that we physicians need to clean up our act.](https://sciencebasedmedicine.org/yet-more-evidence-that-we-physicians-need-to-clean-up-our-act/) *Science-Based Medicine.* 2024 Feb.
+
+[The power of perceived expertise.](https://globalhealth.stanford.edu/research/the-power-of-perceived-expertise-in-health-communication.html/) *Center for Innovation in Global Health.* 2024 Feb.
+
 [The federal government's response to Covid.](https://accuracy.org/release/the-federal-governments-response-to-covid/) *Institute for Public Accuracy.* 2023 Mar.
 
 [Why is pro-vax Aetna paying firm founded by Covid skeptic?](https://www.thedailybeast.com/dr-eli-david-covid-conspiracy-theorist-on-twitter-linked-to-aetna-and-cvs) *Daily Beast.* 2023 Feb.
