@@ -44,6 +44,8 @@ permalink: media
 
 ## Opinions and blog posts
 
+**Harris MJ*.* [“Fauci Files” and Florida’s grand jury investigations fail to deliver](https://sciencebasedmedicine.org/fauci-files-and-floridas-grand-jury-investigations-fail-to-deliver/). *Science-Based Medicine.* 2024 June.
+
 Kashtan Y, **Harris MJ**. [Doerr's fossil fuel ties discourage top scholars from engaging.](https://stanforddaily.com/2022/11/17/from-the-community-doerrs-fossil-fuel-ties-discourage-top-scholars-from-engaging/) *The Stanford Daily.* 2022 Nov.
 
 **Harris MJ**.[My breakthrough about vaccines.](https://www.voicesforvaccines.org/my-pertussis-breakthrough/) *Voices for Vaccines*. 2022 Jun.
