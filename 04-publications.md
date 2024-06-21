@@ -26,9 +26,7 @@ permalink: publications
 
 11. **Harris MJ**, Caldwell JM, and Mordecai EA. [Climate drives spatial variation in Zika epidemics in Latin America.](https://doi.org/10.1098/rspb.2019.1578) *Proc Royal Soc B*. 2019 Aug.
 
-12. Shocket MS, Anderson CB, Caldwell JM, Childs ML, MacDonald AJ, Howard ME, Nova N, Han S, **Harris MJ**, Mordecai EA. [Environmental drivers of vector-borne diseases.](https://doi.org/10.1093/oso/9780198853244.001.0001) *Population Biology of Vector-Borne Diseases.* Oxford UP. 2018.
-
-13. Zhang JY, Lee JH, Gu X, Wei ZZ, **Harris MJ**, Yu SP, Wei L. [Intranasally Delivered Wnt3a Improves Functional Recovery after Traumatic Brain Injury by Modulating Autophagic, Apoptotic, and Regenerative Pathways in the Mouse Brain.](https://doi.org/10.1089/neu.2016.4871) *J Neurotrauma.* 2018 Mar.
+12. Zhang JY, Lee JH, Gu X, Wei ZZ, **Harris MJ**, Yu SP, Wei L. [Intranasally Delivered Wnt3a Improves Functional Recovery after Traumatic Brain Injury by Modulating Autophagic, Apoptotic, and Regenerative Pathways in the Mouse Brain.](https://doi.org/10.1089/neu.2016.4871) *J Neurotrauma.* 2018 Mar.
 
 ### Pre-prints
 
@@ -37,3 +35,7 @@ permalink: publications
 2.  Jalbert M, **Harris MJ**, Williams L. [Who is perceived to be an expert on COVID-19 vaccines on social media?: Biomedical credentials confer expertise, even among vaccine-hesitant and conservative observers.](https://psyarxiv.com/8hxdg/)
 
     (\*denotes shared first author)
+    
+## Book chapter
+
+1. Shocket MS, Anderson CB, Caldwell JM, Childs ML, MacDonald AJ, Howard ME, Nova N, Han S, **Harris MJ**, Mordecai EA. [Environmental drivers of vector-borne diseases.](https://doi.org/10.1093/oso/9780198853244.001.0001) *Population Biology of Vector-Borne Diseases.* Oxford UP. 2018.
