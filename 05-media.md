@@ -5,6 +5,7 @@ permalink: media
 ---
 
 ## Interviews and appearances
+[Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/) *The Washington Post.* 2024 Jun.
 
 [Yet more evidence that we physicians need to clean up our act.](https://sciencebasedmedicine.org/yet-more-evidence-that-we-physicians-need-to-clean-up-our-act/) *Science-Based Medicine.* 2024 Feb.
 
