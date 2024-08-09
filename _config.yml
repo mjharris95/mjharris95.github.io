@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Mallory Harris
+title: Mallory Harris, PhD
 email: mharr15 [at] umd [dot] edu
 description: "Postdoctoral Fellow, University of Maryland" 
 baseurl: "" # the subpath of your site, e.g. /blog
