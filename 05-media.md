@@ -8,6 +8,9 @@ editor_options:
 ---
 
 ## Interviews and appearances
+['A warmer, sicker world': Mosquitoes carrying deadly diseases are on an unstoppable march across the US.](https://www.bbc.com/future/article/20240925-why-mosquitoes-are-thriving-in-a-warmer-world) *BBC.* 2024 Sep.
+
+[‘Embarrassing and Disappointing’: Stanford Goes All-In On COVID Contrarians.](https://www.importantcontext.news/p/embarrassing-and-disappointing-stanford) *Important Context.* 2024 Sep.
 
 [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/)
 *The Washington Post.* 2024 Jun.
