@@ -83,6 +83,7 @@ WSOC-TV.
 ## Opinions and blog posts
 
 **Harris MJ**. [President Levin’s first order of business: abandoning academic freedom](https://stanforddaily.com/2024/10/03/from-the-community-levin-academic-freedom/). *The Stanford Daily*. 2024 Oct.
+
 **Harris MJ**.
 ["Fauci Files" and Florida's grand jury investigations fail to deliver](https://sciencebasedmedicine.org/fauci-files-and-floridas-grand-jury-investigations-fail-to-deliver/).
 *Science-Based Medicine.* 2024 June.
