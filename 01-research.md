@@ -3,7 +3,6 @@ layout: page
 title: Research
 permalink: research
 ---
-You can earn more about my dissertation research by checking out this [poster](https://mjharris95.github.io/Dissertation-Poster.pdf)
 
 # **Disease and decisions** {#disease-decisions}
 
@@ -67,3 +66,5 @@ how climate and other environmental factors may influence vector-borne
 disease and a [paper](doi.org/10.7554/eLife.69630) synthesizing evidence
 on how mosquitoes may adapt to climate change, with implications for
 disease transmission.
+
+You can earn more about my dissertation research by checking out this [poster](https://mjharris95.github.io/Dissertation-Poster.pdf) or watching this [recording](https://stanford.zoom.us/rec/share/m-lKdD77bo20o2NVlLURxQtEZseesbFWK77Ts6ufh43l_guskRu7kgl_2Yqr_jak.74U7rS5lkAqAa1yX?startTime=1715706043000) of my defense!
