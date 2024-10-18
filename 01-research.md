@@ -59,12 +59,14 @@ temperature, peaking at intermediate temperatures
 literature review demonstrating how different observed correlations
 between dengue cases and temperature are predicted by work from mosquito
 thermal biology
-([pre-print](https://www.biorxiv.org/content/10.1101/2022.06.15.496305v1.abstract)).
+([paper](https://www.biorxiv.org/content/10.1101/2022.06.15.496305v1.abstract)).
 I also contributed to a [book
 chapter](https://doi.org/10.1093/oso/9780198853244.001.0001) examining
 how climate and other environmental factors may influence vector-borne
 disease and a [paper](doi.org/10.7554/eLife.69630) synthesizing evidence
 on how mosquitoes may adapt to climate change, with implications for
 disease transmission.
+
+
 
 You can earn more about my dissertation research by checking out this [poster](https://mjharris95.github.io/Dissertation-Poster.pdf) or watching this [recording](https://stanford.zoom.us/rec/share/m-lKdD77bo20o2NVlLURxQtEZseesbFWK77Ts6ufh43l_guskRu7kgl_2Yqr_jak.74U7rS5lkAqAa1yX?startTime=1715706043000) of my defense!
