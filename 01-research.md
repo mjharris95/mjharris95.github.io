@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: research
 ---
+You can earn more about my dissertation research by checking out this [poster](https://mjharris95.github.io/Dissertation-Poster.pdf)
 
 # **Disease and decisions** {#disease-decisions}
 
