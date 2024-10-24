@@ -30,9 +30,11 @@ permalink: publications
 
 ### Pre-prints
 
-1.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1101/2024.01.08.24301015)
+1. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1101/2024.10.23.24309838)
+   
+2.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1101/2024.01.08.24301015)
 
-2.  Jalbert M, **Harris MJ**, Williams L. [Who is perceived to be an expert on COVID-19 vaccines on social media?: Biomedical credentials confer expertise, even among vaccine-hesitant and conservative observers.](https://psyarxiv.com/8hxdg/)
+3.  Jalbert M, **Harris MJ**, Williams L. [Who is perceived to be an expert on COVID-19 vaccines on social media?: Biomedical credentials confer expertise, even among vaccine-hesitant and conservative observers.](https://psyarxiv.com/8hxdg/)
 
     (\*denotes shared first author)
     
