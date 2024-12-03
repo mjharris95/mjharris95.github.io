@@ -4,7 +4,7 @@ title: Publications
 permalink: publications
 ---
 13. Jalbert M, **Harris MJ**, Williams L. [Who is perceived to be an expert on COVID-19 vaccines on social media?: Biomedical credentials confer expertise, even among vaccine-hesitant and conservative observers.](https://psyarxiv.com/8hxdg/). *Information, Communication and Society.* In press.
-14. 
+   
 12.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://doi.org/10.1371/journal.pclm.0000152) *PLOS Climate.* 2024 Mar.
 
 11.  **Harris MJ**, Murtfeldt R, Wang S, Mordecai EA, West JD. [Perceived experts are prevalent and influential within an antivaccine community on Twitter.](https://academic.oup.com/pnasnexus/article/3/2/pgae007/7601415?login=false) *PNAS Nexus.* 2024 Feb.
