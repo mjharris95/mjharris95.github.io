@@ -7,10 +7,14 @@ editor_options:
     wrap: sentence
 ---
 
-## Interviews and appearances
-['A warmer, sicker world': Mosquitoes carrying deadly diseases are on an unstoppable march across the US.](https://www.bbc.com/future/article/20240925-why-mosquitoes-are-thriving-in-a-warmer-world) *BBC.* 2024 Sep.
+## Selected interviews and appearances
+[Climate change could broaden global reach of dengue fever.](https://www.usatoday.com/story/news/health/2024/11/17/climate-change-dengue-fever-record-mosquitoes/76222263007/) *USAToday.* 2024 Nov.
 
-[‘Embarrassing and Disappointing’: Stanford Goes All-In On COVID Contrarians.](https://www.importantcontext.news/p/embarrassing-and-disappointing-stanford) *Important Context.* 2024 Sep.
+[With dengue cases at an extreme high, research points to climate change's role.](https://www.nbcnews.com/health/health-news/dengue-fever-climate-change-rcna179629) *NBC News.* 2024 Nov.
+
+[Jay Bhattacharya, an NIH critic, emerges as a top candidate to lead the agency.](https://www.washingtonpost.com/health/2024/11/16/nih-director-jay-bhattacharya-covid-great-barrington-declaration/) *The Washington Post.* 2024 Nov.
+
+['A warmer, sicker world': Mosquitoes carrying deadly diseases are on an unstoppable march across the US.](https://www.bbc.com/future/article/20240925-why-mosquitoes-are-thriving-in-a-warmer-world) *BBC.* 2024 Sep.
 
 [Dengue fever is surging worldwide. A hotter planet will make it worse.](https://www.washingtonpost.com/health/2024/06/30/dengue-puerto-rico-mosquito-climate-change/)
 *The Washington Post.* 2024 Jun.
@@ -20,9 +24,6 @@ editor_options:
 
 [The power of perceived expertise.](https://globalhealth.stanford.edu/research/the-power-of-perceived-expertise-in-health-communication.html/)
 *Center for Innovation in Global Health.* 2024 Feb.
-
-[The federal government's response to Covid.](https://accuracy.org/release/the-federal-governments-response-to-covid/)
-*Institute for Public Accuracy.* 2023 Mar.
 
 [Why is pro-vax Aetna paying firm founded by Covid skeptic?](https://www.thedailybeast.com/dr-eli-david-covid-conspiracy-theorist-on-twitter-linked-to-aetna-and-cvs)
 *Daily Beast.* 2023 Feb.
@@ -59,10 +60,6 @@ Mar 2022.
 
 [He's a Stanford professor and a Nobel laureate. Critics say he was dangerously misleading on Covid.](https://www.statnews.com/2021/05/24/stanford-professor-and-nobel-laureate-critics-say-he-was-dangerously-misleading-on-covid/)
 *STAT News.* 2021 May.
-
-[Herd immunity probably not necessary to end pandemic, experts sa](https://stanforddaily.com/2021/04/08/herd-immunity-probably-not-necessary-to-end-pandemic-experts-say/)[y.](https://stanforddaily.com/2021/04/08/herd-immunity-probably-not-necessary-to-end-pandemic-experts-say/https://stanforddaily.com/2021/04/08/herd-immunity-probably-not-necessary-to-end-pandemic-experts-say/)
-*Stanford Daily*.
-2021 Apr.
 
 [Tool shows Wisconsin gatherings mean high risk of COVID-19 exposure.](https://www.wpr.org/tool-shows-wisconsin-gatherings-mean-high-risk-covid-19-exposure)
 *Wisconsin Public Radio*.
