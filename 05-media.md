@@ -7,8 +7,10 @@ editor_options:
     wrap: sentence
 ---
 
-## Selected interviews and appearances
-[Climate change could broaden global reach of dengue fever.](https://www.usatoday.com/story/news/health/2024/11/17/climate-change-dengue-fever-record-mosquitoes/76222263007/) *USAToday.* 2024 Nov.
+## Interviews and appearances
+[How retractions get weaponized on social media.](https://www.statnews.com/2024/12/24/science-journal-retractions-new-study-looks-at-retraction-misinformation-covid/) *STAT News*. 2024 Dec.
+
+[Climate change could broaden global reach of dengue fever.](https://www.usatoday.com/story/news/health/2024/11/17/climate-change-dengue-fever-record-mosquitoes/76222263007/) *USA Today.* 2024 Nov.
 
 [With dengue cases at an extreme high, research points to climate change's role.](https://www.nbcnews.com/health/health-news/dengue-fever-climate-change-rcna179629) *NBC News.* 2024 Nov.
 
@@ -70,7 +72,7 @@ Mar 2022.
 2020 Nov.
 
 [Study: here are the chances you'll be exposed to COVID-19 in a group setting.](https://www.wsoctv.com/news/local/group-100-people-meck-co-theres-98-chance-1-person-has-covid-19-study-says/AHH5ACRIZNBARPJX3K7WP4SOBM/)
-WSOC-TV.
+*WSOC-TV*.
 2020 Jul.
 
 [The imprecise science of predicting the spread of COVID-19.](https://www.civilbeat.org/2020/04/the-imprecise-science-of-predicting-the-spread-of-covid-19/)
