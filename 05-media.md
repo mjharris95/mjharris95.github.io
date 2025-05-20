@@ -93,7 +93,7 @@ Mar 2022.
 Kashtan Y, **Harris MJ**. [Doerr's fossil fuel ties discourage top scholars from engaging.](https://stanforddaily.com/2022/11/17/from-the-community-doerrs-fossil-fuel-ties-discourage-top-scholars-from-engaging/)
 *The Stanford Daily.* 2022 Nov.
 
-**Harris MJ**.[My breakthrough about vaccines.](https://www.voicesforvaccines.org/my-pertussis-breakthrough/)
+**Harris MJ**. [My breakthrough about vaccines.](https://www.voicesforvaccines.org/my-pertussis-breakthrough/)
 *Voices for Vaccines*.
 2022 Jun.
 
