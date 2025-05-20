@@ -82,6 +82,7 @@ Mar 2022.
 2020 Apr.
 
 ## Opinions and blog posts
+**Harris MJ** in [What it’s like to have measles, mumps, whooping cough, and other vaccine-preventable illnesses](https://www.statnews.com/2025/05/10/what-it-is-like-to-have-measles-rubella-polio-pertussis-first-person-patient-stories/). *STAT News*. 2025 May. 
 
 **Harris MJ**. [President Levin’s first order of business: abandoning academic freedom](https://stanforddaily.com/2024/10/03/from-the-community-levin-academic-freedom/). *The Stanford Daily*. 2024 Oct.
 
