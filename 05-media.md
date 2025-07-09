@@ -8,6 +8,8 @@ editor_options:
 ---
 
 ## Interviews and appearances
+[Terminated NIH grants are being reinstated almost entirely in blue states.])(https://www.statnews.com/2025/07/03/nih-cuts-grant-restoration-complicated-by-limits-to-court-order-trump-dei-restrictions/) *STAT News*. 2025 Jul.
+
 [New journal co-founded by NIH nominee raises eyebrows, misinformation fears.](https://www.science.org/content/article/new-journal-co-founded-nih-nominee-raises-eyebrows-misinformation-fears) *Science*. 2025 Feb.
 
 [How retractions get weaponized on social media.](https://www.statnews.com/2024/12/24/science-journal-retractions-new-study-looks-at-retraction-misinformation-covid/) *STAT News*. 2024 Dec.
