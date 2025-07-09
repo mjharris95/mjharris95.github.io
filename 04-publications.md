@@ -3,6 +3,8 @@ layout: page
 title: Publications 
 permalink: publications
 ---
+1. Sinclair AH, **Harris MJ**, Andris C, Cosme D, Peters E, Fagerlin A, Falk EB, Weitz JS. [NIH indirect cost cuts will affect the economy and employment.](https://doi.org/10.1038/s41562-025-02238-x) *Nat Hum Behav.* 2025 Jun.
+
 1. Jalbert M, **Harris MJ**, Williams L. [Who is perceived to be an expert on COVID-19 vaccines on social media?: Biomedical credentials confer expertise, even among vaccine-hesitant and conservative observers.](https://doi.org/10.1080/1369118X.2024.2436001) *Information, Communication and Society.* 2024 Dec.
    
 12.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://doi.org/10.1371/journal.pclm.0000152) *PLOS Climate.* 2024 Mar.
@@ -29,11 +31,13 @@ permalink: publications
 
 1. Zhang JY, Lee JH, Gu X, Wei ZZ, **Harris MJ**, Yu SP, Wei L. [Intranasally Delivered Wnt3a Improves Functional Recovery after Traumatic Brain Injury by Modulating Autophagic, Apoptotic, and Regenerative Pathways in the Mouse Brain.](https://doi.org/10.1089/neu.2016.4871) *J Neurotrauma.* 2018 Mar.
 
-### Pre-prints
+### In review
 
-1. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1101/2024.10.23.24309838)
+1. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics.
+
+3. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1101/2024.10.23.24309838)
    
-2.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1101/2024.01.08.24301015)
+4.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1101/2024.01.08.24301015)
 
     (\*denotes shared first author)
     
