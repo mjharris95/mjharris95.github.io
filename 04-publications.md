@@ -3,7 +3,7 @@ layout: page
 title: Publications 
 permalink: publications
 ---
-1. Sinclair AH, **Harris MJ**, Andris C, Cosme D, Peters E, Fagerlin A, Falk EB, Weitz JS. [NIH indirect cost cuts will affect the economy and employment.](https://doi.org/10.1038/s41562-025-02238-x) *Nat Hum Behav.* 2025 Jun.
+1. Sinclair AH, **Harris MJ**, Andris C, Cosme D, Peters E, Fagerlin A, Falk EB, Weitz JS. [NIH indirect cost cuts will affect the economy and employment.](https://doi.org/10.1038/s41562-025-02238-x) *Nat Hum Behav.* 2025 Jun. (Correspondence)
 
 1. Jalbert M, **Harris MJ**, Williams L. [Who is perceived to be an expert on COVID-19 vaccines on social media?: Biomedical credentials confer expertise, even among vaccine-hesitant and conservative observers.](https://doi.org/10.1080/1369118X.2024.2436001) *Information, Communication and Society.* 2024 Dec.
    
