@@ -31,13 +31,15 @@ permalink: publications
 
 1. Zhang JY, Lee JH, Gu X, Wei ZZ, **Harris MJ**, Yu SP, Wei L. [Intranasally Delivered Wnt3a Improves Functional Recovery after Traumatic Brain Injury by Modulating Autophagic, Apoptotic, and Regenerative Pathways in the Mouse Brain.](https://doi.org/10.1089/neu.2016.4871) *J Neurotrauma.* 2018 Mar.
 
-### In review
+### Submitted or In Review
 
-1. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics.
-
-3. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1101/2024.10.23.24309838)
+1. **Harris MJ**, Sinclair AH, Andris C, Weitz JS. [Economic loss due to health funding cuts as distributed across geospatial units.](https://doi.org/10.1101/2025.07.24.25332092)
    
-4.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1101/2024.01.08.24301015)
+3. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics.
+
+4. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1101/2024.10.23.24309838) In revision.
+   
+5.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1101/2024.01.08.24301015) In revision.
 
     (\*denotes shared first author)
     
