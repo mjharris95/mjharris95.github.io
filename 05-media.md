@@ -8,7 +8,11 @@ editor_options:
 ---
 
 ## Interviews and appearances
+[Former NIH leaders lament ‘constant chaos’ at the agency, and caution it’s not over.](https://www.statnews.com/2025/10/16/former-nih-leaders-describe-constant-chaos/) *STAT News*. 2025 Oct.
+
 [Terminated NIH grants are being reinstated almost entirely in blue states.](https://www.statnews.com/2025/07/03/nih-cuts-grant-restoration-complicated-by-limits-to-court-order-trump-dei-restrictions/) *STAT News*. 2025 Jul.
+
+['A pope in muddy boots': Viral photos of Leo XIV reveal a history of pastoral care](https://www.ncronline.org/news/pope-muddy-boots-viral-photos-leo-xiv-reveal-history-pastoral-care) *National Catholic Reporter*. 2025 May.
 
 [New journal co-founded by NIH nominee raises eyebrows, misinformation fears.](https://www.science.org/content/article/new-journal-co-founded-nih-nominee-raises-eyebrows-misinformation-fears) *Science*. 2025 Feb.
 
@@ -84,13 +88,15 @@ Mar 2022.
 2020 Apr.
 
 ## Opinions and blog posts
+Weitz JS, **Harris MJ**, Sinclair AH, Berg JM. [Impoundment of funds endangers US investment in science and medical research](https://www.nature.com/articles/d41586-025-03003-w). *Nature* (correspondence). 2025 Sep.
+
 **Harris MJ** in [What it’s like to have measles, mumps, whooping cough, and other vaccine-preventable illnesses](https://www.statnews.com/2025/05/10/what-it-is-like-to-have-measles-rubella-polio-pertussis-first-person-patient-stories/). *STAT News*. 2025 May. 
 
 **Harris MJ**. [President Levin’s first order of business: abandoning academic freedom](https://stanforddaily.com/2024/10/03/from-the-community-levin-academic-freedom/). *The Stanford Daily*. 2024 Oct.
 
 **Harris MJ**.
 ["Fauci Files" and Florida's grand jury investigations fail to deliver](https://sciencebasedmedicine.org/fauci-files-and-floridas-grand-jury-investigations-fail-to-deliver/).
-*Science-Based Medicine.* 2024 June.
+*Science-Based Medicine.* 2024 Jun.
 
 Kashtan Y, **Harris MJ**. [Doerr's fossil fuel ties discourage top scholars from engaging.](https://stanforddaily.com/2022/11/17/from-the-community-doerrs-fossil-fuel-ties-discourage-top-scholars-from-engaging/)
 *The Stanford Daily.* 2022 Nov.
@@ -104,7 +110,7 @@ Mordecai EA, **Harris MJ**. [Will we ever reach herd immunity to Covid-19?](http
 
 **Harris MJ**. [Do as we do, not as they say: Stanford affiliates contradict Stanford's COVID-19 policies.](https://stanforddaily.com/2021/09/05/do-as-we-do-not-as-they-say/)
 *The Stanford Daily*.
-2021 Sept.
+2021 Sep.
 
 Mordecai EA, **Harris MJ**, Lipsitch M. [The US may never hit the herd immunity threshold. That's OK.](https://www.nytimes.com/2021/05/28/opinion/herd-immunity-covid-us.html) *New York Times*.
 2021 May.
