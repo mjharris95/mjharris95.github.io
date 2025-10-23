@@ -12,7 +12,7 @@ editor_options:
 
 [Terminated NIH grants are being reinstated almost entirely in blue states.](https://www.statnews.com/2025/07/03/nih-cuts-grant-restoration-complicated-by-limits-to-court-order-trump-dei-restrictions/) *STAT News*. 2025 Jul.
 
-['A pope in muddy boots': Viral photos of Leo XIV reveal a history of pastoral care](https://www.ncronline.org/news/pope-muddy-boots-viral-photos-leo-xiv-reveal-history-pastoral-care) *National Catholic Reporter*. 2025 May.
+['A pope in muddy boots': Viral photos of Leo XIV reveal a history of pastoral care](https://www.ncronline.org/news/pope-muddy-boots-viral-photos-leo-xiv-reveal-history-pastoral-care) *National Catholic Reporter*. 2025 May. (references our work on climate change and extreme precipitation in Peru)
 
 [New journal co-founded by NIH nominee raises eyebrows, misinformation fears.](https://www.science.org/content/article/new-journal-co-founded-nih-nominee-raises-eyebrows-misinformation-fears) *Science*. 2025 Feb.
 
