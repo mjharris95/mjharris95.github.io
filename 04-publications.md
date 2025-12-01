@@ -3,8 +3,10 @@ layout: page
 title: Publications 
 permalink: publications
 ---
-1. Sinclair AH, **Harris MJ**, Andris C, Cosme D, Peters E, Fagerlin A, Falk EB, Weitz JS. [NIH indirect cost cuts will affect the economy and employment.](https://doi.org/10.1038/s41562-025-02238-x) *Nat Hum Behav.* 2025 Jun. (Correspondence)
-
+1. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1101/2024.10.23.24309838) *One Earth.* In press.
+   
+3.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1073/pnas.2512350122) *Proceedings of the National Academy of Science.* 2025 Sep.
+   
 1. Jalbert M, **Harris MJ**, Williams L. [Who is perceived to be an expert on COVID-19 vaccines on social media?: Biomedical credentials confer expertise, even among vaccine-hesitant and conservative observers.](https://doi.org/10.1080/1369118X.2024.2436001) *Information, Communication and Society.* 2024 Dec.
    
 12.  Kirk D, Straus S, Childs M, **Harris MJ**, Couper L, Davies J, Forbes C, Gehman A, Groner M, Harley C, Lafferty K, Skinner E, O'Connor MI, Mordecai EA. [Temperature impacts on dengue incidence are nonlinear and mediated by climatic and socioeconomic factors.](https://doi.org/10.1371/journal.pclm.0000152) *PLOS Climate.* 2024 Mar.
@@ -33,13 +35,11 @@ permalink: publications
 
 ### Submitted or In Review
 
-1. **Harris MJ**, Sinclair AH, Andris C, Weitz JS. [Economic loss due to health funding cuts as distributed across geospatial units.](https://doi.org/10.1101/2025.07.24.25332092)
+1. **Harris MJ**, Sinclair AH, Andris C, Weitz JS. [Economic loss due to health funding cuts as distributed across geospatial units.](https://doi.org/10.1101/2025.07.24.25332092) In revision.
    
-3. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics.
-
-4. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1101/2024.10.23.24309838) In revision.
+3. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics. In review.
    
-5.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1101/2024.01.08.24301015) In revision.
+5. Sinclair AH, **Harris MJ**, Cosme D, Fagerlin A, Peters E, Andris C, Cooke CL. Falk EB, Weitz JS. Communicating the economic impact of NIH funding cuts changes attitudes and motivates action. In review
 
     (\*denotes shared first author)
     
