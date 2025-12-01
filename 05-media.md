@@ -87,7 +87,7 @@ Mar 2022.
 *Civil Beat*.
 2020 Apr.
 
-## Opinions and blog posts
+## Opinions, correspondences, and blog posts
 Weitz JS, **Harris MJ**, Sinclair AH, Berg JM. [Impoundment of funds endangers US investment in science and medical research](https://www.nature.com/articles/d41586-025-03003-w). *Nature* (correspondence). 2025 Sep.
 
 Sinclair AH, **Harris MJ**, Andris C, Cosme D, Peters E, Fagerlin A, Falk EB, Weitz JS. [NIH indirect cost cuts will affect the economy and employment.](https://doi.org/10.1038/s41562-025-02238-x) *Nat Hum Behav* (correspondence). 2025 Jun. 
