@@ -90,6 +90,8 @@ Mar 2022.
 ## Opinions and blog posts
 Weitz JS, **Harris MJ**, Sinclair AH, Berg JM. [Impoundment of funds endangers US investment in science and medical research](https://www.nature.com/articles/d41586-025-03003-w). *Nature* (correspondence). 2025 Sep.
 
+Sinclair AH, **Harris MJ**, Andris C, Cosme D, Peters E, Fagerlin A, Falk EB, Weitz JS. [NIH indirect cost cuts will affect the economy and employment.](https://doi.org/10.1038/s41562-025-02238-x) *Nat Hum Behav* (correspondence). 2025 Jun. 
+
 **Harris MJ** in [What it’s like to have measles, mumps, whooping cough, and other vaccine-preventable illnesses](https://www.statnews.com/2025/05/10/what-it-is-like-to-have-measles-rubella-polio-pertussis-first-person-patient-stories/). *STAT News*. 2025 May. 
 
 **Harris MJ**. [President Levin’s first order of business: abandoning academic freedom](https://stanforddaily.com/2024/10/03/from-the-community-levin-academic-freedom/). *The Stanford Daily*. 2024 Oct.
