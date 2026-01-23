@@ -40,6 +40,8 @@ permalink: publications
 3. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics. In review.
    
 5. Sinclair AH, **Harris MJ**, Cosme D, Fagerlin A, Peters E, Andris C, Cooke CL. Falk EB, Weitz JS. Communicating the economic impact of NIH funding cuts changes attitudes and motivates action. In review
+   
+4.	**Harris MJ**, Arani A, Goel T, Zhang K, Beckett SJ, Lo NC, Dushoff J, Weitz JS. [Interpreting breakthrough infections given assortative mixing of partially vaccinated populations.](https://www.medrxiv.org/content/10.64898/2026.01.22.26344544v1). Submitted.
 
     (\*denotes shared first author)
     
