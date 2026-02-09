@@ -8,6 +8,8 @@ editor_options:
 ---
 
 ## Interviews and appearances
+[The Trump-MAHA-Stanford nexus of US health policy.](https://www.cnn.com/2025/11/08/politics/stanford-maha-trump-rfk-bhattacharya-huberman). *CNN*. 2025 November.
+
 [Former NIH leaders lament ‘constant chaos’ at the agency, and caution it’s not over.](https://www.statnews.com/2025/10/16/former-nih-leaders-describe-constant-chaos/) *STAT News*. 2025 Oct.
 
 [Terminated NIH grants are being reinstated almost entirely in blue states.](https://www.statnews.com/2025/07/03/nih-cuts-grant-restoration-complicated-by-limits-to-court-order-trump-dei-restrictions/) *STAT News*. 2025 Jul.
