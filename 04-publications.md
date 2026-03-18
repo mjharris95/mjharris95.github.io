@@ -3,7 +3,7 @@ layout: page
 title: Publications 
 permalink: publications
 ---
-1. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1101/2024.10.23.24309838) *One Earth.* In press.
+1. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1016/j.oneear.2026.101619) *One Earth.* 2026 Mar.
    
 3.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1073/pnas.2512350122) *Proceedings of the National Academy of Science.* 2025 Sep.
    
