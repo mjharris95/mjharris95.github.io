@@ -3,6 +3,8 @@ layout: page
 title: Publications 
 permalink: publications
 ---
+1. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics. *R. Soc. Open Sci.* In press.
+   
 1. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1016/j.oneear.2026.101619) *One Earth.* 2026 Mar.
    
 3.  Childs ML\*, Lyberger KP\*, **Harris MJ**, Burke M, Mordecai EA. [Climate warming is expanding dengue burden in the Americas and Asia.](https://doi.org/10.1073/pnas.2512350122) *Proceedings of the National Academy of Science.* 2025 Sep.
@@ -37,11 +39,9 @@ permalink: publications
 
 1. **Harris MJ**, Sinclair AH, Andris C, Weitz JS. [Economic loss due to health funding cuts as distributed across geospatial units.](https://doi.org/10.1101/2025.07.24.25332092) In revision.
    
-3. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics. In review.
+5. Sinclair AH, **Harris MJ**, Cosme D, Fagerlin A, Peters E, Andris C, Cooke CL. Falk EB, Weitz JS. Communicating the economic impact of NIH funding cuts changes attitudes and motivates action. In review.
    
-5. Sinclair AH, **Harris MJ**, Cosme D, Fagerlin A, Peters E, Andris C, Cooke CL. Falk EB, Weitz JS. Communicating the economic impact of NIH funding cuts changes attitudes and motivates action. In review
-   
-4.	**Harris MJ**, Arani A, Goel T, Zhang K, Beckett SJ, Lo NC, Dushoff J, Weitz JS. [Interpreting breakthrough infections given assortative mixing of partially vaccinated populations.](https://www.medrxiv.org/content/10.64898/2026.01.22.26344544v1). Submitted.
+4.	**Harris MJ**, Arani A, Goel T, Zhang K, Beckett SJ, Lo NC, Dushoff J, Weitz JS. [Interpreting breakthrough infections given assortative mixing of partially vaccinated populations.](https://www.medrxiv.org/content/10.64898/2026.01.22.26344544v1). In review.
 
     (\*denotes shared first author)
     
