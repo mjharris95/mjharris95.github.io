@@ -8,6 +8,12 @@ editor_options:
 ---
 
 ## Interviews and appearances
+[A new study links a record-breaking tropical disease outbreak in peru to climate-driven extreme weather](https://insideclimatenews.org/news/20032026/peru-dengue-fever-record-outbreak-climate-driven-weather/) *Inside Climate News*. 2026 Mar.
+
+[How much does climate change fuel dengue outbreaks?](https://www.gavi.org/vaccineswork/how-much-does-climate-change-fuel-dengue-outbreaks) *Gavi*. 2026 Mar.
+
+[Climate change is fuelling deadly disease outbreaks.](https://www.dailymail.co.uk/sciencetech/article-15653587/Climate-change-fuelling-disease-outbreaks.html) *Daily Mail*. 2026 Mar.
+
 [Measles is raging worldwide: are you at risk?](https://www.nature.com/articles/d41586-026-00367-5) *Nature*. 2026 Feb.
 
 [The Trump-MAHA-Stanford nexus of US health policy.](https://www.cnn.com/2025/11/08/politics/stanford-maha-trump-rfk-bhattacharya-huberman) *CNN*. 2025 Nov.
