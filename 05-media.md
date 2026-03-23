@@ -42,14 +42,8 @@ editor_options:
 [Yet more evidence that we physicians need to clean up our act.](https://sciencebasedmedicine.org/yet-more-evidence-that-we-physicians-need-to-clean-up-our-act/)
 *Science-Based Medicine.* 2024 Feb.
 
-[The power of perceived expertise.](https://globalhealth.stanford.edu/research/the-power-of-perceived-expertise-in-health-communication.html/)
-*Center for Innovation in Global Health.* 2024 Feb.
-
 [Why is pro-vax Aetna paying firm founded by Covid skeptic?](https://www.thedailybeast.com/dr-eli-david-covid-conspiracy-theorist-on-twitter-linked-to-aetna-and-cvs)
 *Daily Beast.* 2023 Feb.
-
-[The Covid Truther Movement has found its True Enemy - the Covid Truther Movement.](https://www.vice.com/en/article/g5va5x/robert-w-malone-stew-peters-lawsuit-covid)
-*Vice.* 2023 Jan.
 
 [A new course examines scientific and cultural representations of disease.](https://news.stanford.edu/report/2023/01/03/students-examine-scientific-cultural-representations-disease/)
 *Stanford Report*.
@@ -58,9 +52,6 @@ editor_options:
 [Can 'dirty money' pollute climate scholarship?](https://www.reuters.com/article/us-health-coronavirus-usa-economy-idUSKBN2BH1DK)
 *Inside Higher Ed*.
 2022 Dec.
-
-[Report: Trump era Covid strategy "likely resulted in many deaths."](https://accuracy.org/release/report-trump-era-covid-strategy-likely-resulted-in-many-deaths/) *Institute for Public Accuracy*.
-2022 Jun.
 
 [The person who knows.](https://www.pushkin.fm/podcasts/against-the-rules/the-person-who-knows)
 *Against the Rules* with Michael Lewis (podcast).
