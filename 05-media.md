@@ -14,6 +14,8 @@ editor_options:
 
 [Climate change is fuelling deadly disease outbreaks.](https://www.dailymail.co.uk/sciencetech/article-15653587/Climate-change-fuelling-disease-outbreaks.html) *Daily Mail*. 2026 Mar.
 
+[The deaths doctors never thought they’d see in the U.S.](https://www.theatlantic.com/health/2026/02/measles-death/686122/) *The Atlantic*. 2026 Feb.
+
 [Measles is raging worldwide: are you at risk?](https://www.nature.com/articles/d41586-026-00367-5) *Nature*. 2026 Feb.
 
 [The Trump-MAHA-Stanford nexus of US health policy.](https://www.cnn.com/2025/11/08/politics/stanford-maha-trump-rfk-bhattacharya-huberman) *CNN*. 2025 Nov.
