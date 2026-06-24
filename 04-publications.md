@@ -3,7 +3,7 @@ layout: page
 title: Publications 
 permalink: publications
 ---
-1. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. [Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics.](10.1098/rsos.260369
+1. **Harris MJ**\*, Sinclair AH\*, Pullano G\*, Beckett SJ\*, LeJeune L\*, Agusto FB, Bauch CT, Baur C, Berestycki H, Dushoff J, Griette Q, Levin SA, Velasco-Hernández JX, Wu J, Weitz JS. [Emerging frontiers in infectious disease modeling: reassessing the data-driven feedback loop between human behavior and disease dynamics.](https://doi.org/10.1098/rsos.260369
 ) *R. Soc. Open Sci.* 2026 Jun.
    
 1. **Harris MJ**, Trok JT, Martel KS, Borbor Cordova MJ, Diffenbaugh NS, Munayco CV, Lescano AG, Mordecai EA. [Extreme precipitation, exacerbated by anthropogenic climate change, drove Peru’s record-breaking 2023 dengue outbreak.](https://doi.org/10.1016/j.oneear.2026.101619) *One Earth.* 2026 Mar.
