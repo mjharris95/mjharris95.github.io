@@ -40,7 +40,7 @@ permalink: publications
 
 1. **Harris MJ**, Sinclair AH, Andris C, Weitz JS. [Economic loss due to health funding cuts as distributed across geospatial units.](https://doi.org/10.1101/2025.07.24.25332092) In revision.
    
-5. Sinclair AH, **Harris MJ**, Cosme D, Fagerlin A, Peters E, Andris C, Cooke CL. Falk EB, Weitz JS. Communicating the economic impact of NIH funding cuts changes attitudes and motivates action. In review.
+5. Sinclair AH, **Harris MJ**, Cosme D, Fagerlin A, Peters E, Andris C, Cooke CL. Falk EB, Weitz JS. [Communicating the economic impact of NIH funding cuts changes attitudes and motivates action.](https://osf.io/preprints/psyarxiv/bj857_v1) In review.
    
 4.	**Harris MJ**, Arani A, Goel T, Zhang K, Beckett SJ, Lo NC, Dushoff J, Weitz JS. [Interpreting breakthrough infections given assortative mixing of partially vaccinated populations.](https://www.medrxiv.org/content/10.64898/2026.01.22.26344544v1) In review.
 
