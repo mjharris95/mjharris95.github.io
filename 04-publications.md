@@ -42,7 +42,9 @@ permalink: publications
    
 5. Sinclair AH, **Harris MJ**, Cosme D, Fagerlin A, Peters E, Andris C, Cooke CL. Falk EB, Weitz JS. Communicating the economic impact of NIH funding cuts changes attitudes and motivates action. In review.
    
-4.	**Harris MJ**, Arani A, Goel T, Zhang K, Beckett SJ, Lo NC, Dushoff J, Weitz JS. [Interpreting breakthrough infections given assortative mixing of partially vaccinated populations.](https://www.medrxiv.org/content/10.64898/2026.01.22.26344544v1). In review.
+4.	**Harris MJ**, Arani A, Goel T, Zhang K, Beckett SJ, Lo NC, Dushoff J, Weitz JS. [Interpreting breakthrough infections given assortative mixing of partially vaccinated populations.](https://www.medrxiv.org/content/10.64898/2026.01.22.26344544v1) In review.
+
+5. Herrera-Diestra JL, Jamieson N, **Harris MJ**, Bi K, Ndeffo-Mbah ML, Ertem MZ, Al-Amery A. [Estimating infectious disease importation risk during the 2026 FIFA World Cup.](https://doi.org/10.64898/2026.06.03.26354828)
 
     (\*denotes shared first author)
     
