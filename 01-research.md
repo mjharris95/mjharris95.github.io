@@ -32,11 +32,13 @@ Projects include:
 
 Amid ongoing erosion of support for public health, people may struggle to identify reliable sources and make sense of complicated scientific data. I help characterize patterns in attitudes toward public health measures such as vaccination, working to identify influential sources of vaccine information. Simultaneously, I contribute to websites that have been used by millions of people to address gaps in public understanding around infectious disease risk and the benefits of scientific research funding. 
 
+
+
 Projects include:
 * Identifying perceived biomedical experts as influential and prevalent within an anti-vaccine community on Twitter ([Harris et al 2024, PNAS Nexus](https://doi.org/10.1093/pnasnexus/pgae007))
 * Developing computational methods to estimate the local economic impacts of proposed cuts to scientific funding, which was shown experimentally to reduce support for funding cuts ([Harris et al 2025, in review](https://doi.org/10.1101/2025.07.24.25332092); [Sinclair et al 2025, in review](https://osf.io/preprints/psyarxiv/bj857_v1))
 * Contributing to a website displaying real-time risk of Covid exposure at events of different sizes, which was shown experimentally to improve the accuracy of risk assessment ([Chande et al 2020, Nat Hum Behav](https://doi.org/10.1038/s41562-020-01000-9))
-* Helping build an assess an model of the impacts of early responses to the Covid-19 pandemic ([Childs*, Kain*, and Harris* et al 2021, Proc Royal Soc B](https://doi.org/10.1098/rspb.2021.0811))
+* Helping build and assess a model of the impacts of early responses to the Covid-19 pandemic ([Childs*, Kain*, and Harris* et al 2021, Proc Royal Soc B](https://doi.org/10.1098/rspb.2021.0811))
 
 
 You can learn more about my dissertation research by checking out this [poster](https://mjharris95.github.io/Dissertation-Poster.pdf) or watching this [recording](https://stanford.zoom.us/rec/share/m-lKdD77bo20o2NVlLURxQtEZseesbFWK77Ts6ufh43l_guskRu7kgl_2Yqr_jak.74U7rS5lkAqAa1yX?startTime=1715706043000) of my defense!
