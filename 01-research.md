@@ -3,8 +3,8 @@ layout: page
 title: Research
 permalink: research
 ---
-
-## **Infectious disease dynamics and human behavior**
+ 
+ **Infectious disease dynamics and human behavior**
 
 <img src="https://mjharris95.github.io/disease-behavior.png" align="left" width="300" style="float: left; margin-right: 20px;"/>
 
@@ -15,7 +15,7 @@ Examples of projects in this theme include:
  * Using modeling and school-based vaccination data to demonstrate that substantial assortativity based on vaccination status has likely reduced the burden of breakthrough measles infections ([Harris et al 2026, in review](https://www.medrxiv.org/content/10.64898/2026.01.22.26344544v2))
  * Building a model to show how behavior based on group-level risk perception can mask the true extent of underlying differences in risk between groups, as the more-vulnerable group preferentially adopts protective measures ([Harris et al 2023, Evol Hum Sci](https://doi.org/10.1017/ehs.2023.2))
 
-## **Climate change and vector-borne disease**
+**Climate change and vector-borne disease**
 
 <img src="https://mjharris95.github.io/cyclone-yaku.png" align="left" width="243" style="float: left; margin-right: 20px;"/>
 
@@ -26,7 +26,7 @@ Projects include:
 * Estimating that global warming was responsible for 18% of dengue incidence across 21 countries in Asia and the Americas from 1995-2014 ([Childs et al 2025, PNAS]([url](https://www.pnas.org/doi/10.1073/pnas.2512350122)))
 * Showing that transmission of Zika in Latin America exhibited a nonlinear relationship with temperature ([Harris et al 2019, Proc Royal Soc B](https://doi.org/10.1098/rspb.2019.1578))
 
-## **Public health attitudes and behavioral interventions**
+**Public health attitudes and behavioral interventions**
 
 <img src="https://mjharris95.github.io/perceived-experts.png" align="left" width="250" style="float: left; margin-right: 20px;"/>
 
