@@ -6,7 +6,7 @@ permalink: research
 
 # **Infectious disease dynamics and human behavior**
 
-<img src="https://mjharris95.github.io/disease-behavior.png" align="left" width="300"/>
+<img src="https://mjharris95.github.io/disease-behavior.png" align="left" width="300" style="float: left; margin-right: 20px;"/>
 
 During an infectious disease outbreak, people decide whether to adopt protective behaviors that may prevent infection (e.g., vaccination and mask-wearing). Current approaches to incorporating behavior into infectious disease models may be limited in their realism due to assumptions including homogeneous responses across the population and adaptive behavior based on accurate, complete information. I build models to capture how actual behavioral processes, specifically social divisions around adoption of protective behavior coupled with assortativity (i.e., preferential mixing with in-group members), can shape behavioral responses and infectious disease transmission. 
 
@@ -17,7 +17,7 @@ Examples of projects in this theme include:
 
 # **Climate change and vector-borne disease**
 
-<img src="https://mjharris95.github.io/cyclone-yaku.png" align="left" width="243"/>
+<img src="https://mjharris95.github.io/cyclone-yaku.png" align="left" width="243" style="float: left; margin-right: 20px;"/>
 
 Climate change is transforming ecological systems, with important implications for human health. Evidence from vector biology establishes that mosquito-borne disease transmission is sensitive to temperature and precipitation, suggesting that climate change may already be shifting the burden of these diseases. I have analyzed data on recent outbreaks of Zika and dengue to establish how climate factors impact mosquito-borne disease transmission. My work provides some of the first causal estimates for the impact that climate change has already had on a mosquito-borne diseases. 
 
@@ -28,7 +28,7 @@ Projects include:
 
 # **Public health attitudes and behavioral interventions**
 
-<img src="https://mjharris95.github.io/perceived-experts.png" align="left" width="250"/>
+<img src="https://mjharris95.github.io/perceived-experts.png" align="left" width="250" style="float: left; margin-right: 20px;"/>
 
 Amid ongoing erosion of support for public health, people may struggle to identify reliable sources and make sense of complicated scientific data. I help characterize patterns in attitudes toward public health measures such as vaccination, working to identify influential sources of vaccine information. Simultaneously, I contribute to websites that have been used by millions of people to address gaps in public understanding around infectious disease risk and the benefits of scientific research funding. 
 
