@@ -4,7 +4,7 @@ title: Research
 permalink: research
 ---
 
-# **Disease and decisions** {#disease-decisions}
+# **Disease and decisions**
 
 <img src="https://mjharris95.github.io/disease-decision.jpg" align="left" width="243"/>
 
