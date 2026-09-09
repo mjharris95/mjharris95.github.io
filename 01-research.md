@@ -6,7 +6,7 @@ permalink: research
 
 # **Infectious disease dynamics and human behavior**
 
-<img src="https://mjharris95.github.io/disease-behavior.png" align="left" width="243"/>
+<img src="https://mjharris95.github.io/disease-behavior.png" align="left" width="260"/>
 
 During an infectious disease outbreak, people decide whether to adopt protective behaviors that may prevent infection (e.g., vaccination and mask-wearing). Current approaches to incorporating behavior into infectious disease models may be limited in their realism due to assumptions including homogeneous responses across the population and adaptive behavior based on accurate, complete information. I build models to capture how actual behavioral processes, specifically social divisions around adoption of protective behavior coupled with assortativity (i.e., preferential mixing with in-group members), can shape behavioral responses and infectious disease transmission. Examples of projects in this theme include:
  * Leading a team of behavioral scientists and epidemiologists in a scoping review to identify opportunities to leverage data streams and incorporate insights from behavioral science into models ([Harris et al 2026, RSOS](https://doi.org/10.1098/rsos.260369))
