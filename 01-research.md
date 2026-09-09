@@ -19,7 +19,9 @@ Examples of projects in this theme include:
 
 <img src="https://mjharris95.github.io/cyclone-yaku.png" align="left" width="243"/>
 
-Climate change is transforming ecological systems, with important implications for human health. Evidence from vector biology establishes that mosquito-borne disease transmission is sensitive to temperature and precipitation, suggesting that climate change may already be shifting the burden of these diseases. I have analyzed data on recent outbreaks of Zika and dengue to establish how climate factors impact mosquito-borne disease transmission. My work provides some of the first causal estimates for the impact that climate change has already had on a mosquito-borne diseases. Projects include:
+Climate change is transforming ecological systems, with important implications for human health. Evidence from vector biology establishes that mosquito-borne disease transmission is sensitive to temperature and precipitation, suggesting that climate change may already be shifting the burden of these diseases. I have analyzed data on recent outbreaks of Zika and dengue to establish how climate factors impact mosquito-borne disease transmission. My work provides some of the first causal estimates for the impact that climate change has already had on a mosquito-borne diseases. 
+
+Projects include:
 * Calculating that extreme precipitation during Cyclone Yaku caused 60% of dengue cases across northwestern Peru during the record-breaking 2023 outbreak ([Harris et al 2026, One Earth](https://www.cell.com/one-earth/fulltext/S2590-3322(26)00020-5))
 * Estimating that global warming was responsible for 18% of dengue incidence across 21 countries in Asia and the Americas from 1995-2014 ([Childs et al 2025, PNAS]([url](https://www.pnas.org/doi/10.1073/pnas.2512350122)))
 * Showing that transmission of Zika in Latin America exhibited a nonlinear relationship with temperature ([Harris et al 2019, Proc Royal Soc B](https://doi.org/10.1098/rspb.2019.1578))
@@ -28,7 +30,9 @@ Climate change is transforming ecological systems, with important implications f
 
 <img src="https://mjharris95.github.io/perceived-experts.png" align="left" width="300"/>
 
-Amid ongoing erosion of support for public health, people may struggle to identify reliable sources and make sense of complicated scientific data. I help characterize patterns in attitudes toward public health measures such as vaccination, working to identify influential sources of vaccine information. Simultaneously, I contribute to websites that have been used by millions of people to address gaps in public understanding around infectious disease risk and the benefits of scientific research funding. Projects include:
+Amid ongoing erosion of support for public health, people may struggle to identify reliable sources and make sense of complicated scientific data. I help characterize patterns in attitudes toward public health measures such as vaccination, working to identify influential sources of vaccine information. Simultaneously, I contribute to websites that have been used by millions of people to address gaps in public understanding around infectious disease risk and the benefits of scientific research funding. 
+
+Projects include:
 * Identifying perceived biomedical experts as influential and prevalent within an anti-vaccine community on Twitter ([Harris et al 2024, PNAS Nexus](https://doi.org/10.1093/pnasnexus/pgae007))
 * Developing computational methods to estimate the local economic impacts of proposed cuts to scientific funding, which was shown experimentally to reduce support for funding cuts ([Harris et al 2025, in review](https://doi.org/10.1101/2025.07.24.25332092); [Sinclair et al 2025, in review](https://osf.io/preprints/psyarxiv/bj857_v1))
 * Contributing to a website displaying real-time risk of Covid exposure at events of different sizes, which was shown experimentally to improve the accuracy of risk assessment ([Chande et al 2020, Nat Hum Behav](https://doi.org/10.1038/s41562-020-01000-9))
