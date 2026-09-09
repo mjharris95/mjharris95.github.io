@@ -28,7 +28,7 @@ Projects include:
 
 # **Public health attitudes and behavioral interventions**
 
-<img src="https://mjharris95.github.io/perceived-experts.png" align="left" width="220"/>
+<img src="https://mjharris95.github.io/perceived-experts.png" align="left" width="250"/>
 
 Amid ongoing erosion of support for public health, people may struggle to identify reliable sources and make sense of complicated scientific data. I help characterize patterns in attitudes toward public health measures such as vaccination, working to identify influential sources of vaccine information. Simultaneously, I contribute to websites that have been used by millions of people to address gaps in public understanding around infectious disease risk and the benefits of scientific research funding. 
 
