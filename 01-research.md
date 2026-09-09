@@ -3,6 +3,8 @@ layout: page
 title: Research
 permalink: research
 ---
+
+My research builds our understanding of how social dynamics and environmental processes can shape infectious disease transmission. This work is divided into three broad themes: (1) exploring how actual behavioral processes can change epidemic outcomes, (2) quantifying how climate change is contributing to outbreak risk, and (3) characterizing attitudes toward scientific and public health measures and building public understanding of health issues. Below, I outline my work across each of these themes.
  
 <span style="font-size: 120%;">**Infectious disease dynamics and human behavior**</span>
  
